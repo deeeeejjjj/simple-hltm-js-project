@@ -1,1 +1,1 @@
-# simple-hltm-js-project
+# simple-html-js-project
